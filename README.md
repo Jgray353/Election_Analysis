@@ -13,7 +13,7 @@ A Colorado Board of Elections employee has given me the following tasks to compl
 - Data Source: election_results.csv
 - Software: Python 3.10, Visual Studio Code, 1.61.0
 
-##Summary 
+## Summary of candidate results
 The analysis of the election shows that:
 - There were 369711 votes cast in the election.
 - The candidates were:
@@ -27,8 +27,13 @@ The analysis of the election shows that:
 - The winner of the election was:
     - Diana DeGette, who received 73.8% of the vote and 272892 votes.
 
-##Challenge Overview
-With the votes counted and a winner determined, the challenge task was to go a step further and get voter turnout for each county, perentage of votes from each county out of the total count, and the county with the highest voter turnout. 
+## Challenge Overview
+With the votes counted and a winner determined, the challenge task was to go a step further and complete the following tasks.
+1. Get voter turnout for each county.
+2.  Getperentage of votes from each county out of the total count
+3.  Get the county with the highest voter turnout.
+
+## Sumnmary of county results
 - The 369711 votes cast in the election are from 3 counties.
    - The counties were:
     - Jefferson
