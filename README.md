@@ -41,7 +41,7 @@ With the votes counted and a winner determined, the challenge task was to go a s
 - The county with the highest voter turnout was:     
     - Denver county, which accounted for 24801 votes, which was 6.7% of the total votes cast.
 
-##ChallengeSummary
+## ChallengeSummary
 This code, with minor modification, can be used for just about any election. In the code, things like 'county' can be modified if it's for measuring results by city, state, zip code, etc. You can declare a new value and then edit accordingly throughout the code to ensure it's properly referenced. And of course you likely will have to edit in a new variable for the file name at the top of the code. And you can edit in something else for 'candidate name', like if you're calulcating results for a government propostion or measure. This code is very versatile for election results with little modification. 
 
 
